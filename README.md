@@ -1,14 +1,14 @@
-<div align = center; >
+
 <pre>
-overall
+<div align = center>
+Overall
 https://inpa.tistory.com/
 https://intrepidgeeks.com/
-
-프론트엔드 참고사이트
+https://www.acmicpc.net/
+https://www.w3schools.com/
 
 HTML 사이트
 표준 : https://html.spec.whatwg.org/multipage/
-https://www.w3schools.com/
 https://developer.mozilla.org/ko/docs/Web/HTML
 https://www.advancedwebranking.com/seo/html-study/
 https://emmet.io/
@@ -28,5 +28,10 @@ https://www.sliderrevolution.com/resources/css-forms/
 https://yesviz.com/devices.php
 https://m3.material.io/
 https://m3.material.io/theme-builder
+
+Figma
+https://pixabay.com/ko/
+https://unsplash.com/
+
 </pre>
 </div>
