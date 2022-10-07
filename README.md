@@ -58,8 +58,10 @@ https://unsplash.com/ <br></p>
 <details>
     <summary>Other</summary>
     <p>https://github.com/Ileriayo/markdown-badges <br>
-    https://www.codefactor.io/</p>
+    https://www.codefactor.io/ <br>
     https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
+    </p>
+    
 </details>
 </div>
 </body>
