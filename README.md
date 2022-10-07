@@ -1,6 +1,4 @@
-
 <pre>
-<div align = center>
 Overall
 https://inpa.tistory.com/
 https://intrepidgeeks.com/
@@ -34,4 +32,4 @@ https://pixabay.com/ko/
 https://unsplash.com/
 
 </pre>
-</div>
+
