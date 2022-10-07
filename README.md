@@ -56,7 +56,8 @@ https://unsplash.com/ <br></p>
 </details>
 <details>
     <summary>Other</summary>
-    <p>https://github.com/Ileriayo/markdown-badges</p>
+    <p>https://github.com/Ileriayo/markdown-badges <br>
+    https://www.codefactor.io/</p>
 </details>
 </div>
 </body>
