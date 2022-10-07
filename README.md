@@ -1,3 +1,6 @@
+<div align = center>
+Hi there! XD
+<hr>
 <details>
     <summary>Overall</summary>
     <p>https://inpa.tistory.com/ <br>
@@ -5,7 +8,6 @@ https://intrepidgeeks.com/ <br>
 https://www.acmicpc.net/ <br>
 https://www.w3schools.com/</p>
 </details>
-
 
 <details>
     <summary>HTML 사이트</summary>
@@ -38,8 +40,7 @@ https://m3.material.io/theme-builder</p>
     <p>https://pixabay.com/ko/ <br>
 https://unsplash.com/ <br></p>
 </details>
-
-
+</div>
 
 
 
