@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sweethedge/sweethedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 프론트엔드 참고사이트
 
 HTML 사이트
