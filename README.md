@@ -54,6 +54,10 @@ https://unsplash.com/ <br></p>
     https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
     </p>
 </details>
+<details>
+    <summary>Other</summary>
+    <p>https://github.com/Ileriayo/markdown-badges</p>
+</details>
 </div>
 </body>
 </html>
