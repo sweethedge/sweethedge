@@ -9,7 +9,7 @@ https://www.w3schools.com/</p>
 </details>
 
 <details>
-    <summary>HTML 사이트 <img src="https://img.shields.io/badge/html-000000"></summary>
+    <summary>HTML 사이트</summary>
     <p>표준 : https://html.spec.whatwg.org/multipage/ <br>
 https://developer.mozilla.org/ko/docs/Web/HTML <br>
 https://www.advancedwebranking.com/seo/html-study/ <br>
