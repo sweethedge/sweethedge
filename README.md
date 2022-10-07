@@ -1,5 +1,5 @@
 <div align = center>
-Hi there! XD
+Hi there! XD <hr>
 <details>
     <summary>Overall</summary>
     <p>https://inpa.tistory.com/ <br>
