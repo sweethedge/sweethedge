@@ -9,6 +9,12 @@ https://www.w3schools.com/</p>
 </details>
 
 <details>
+    <summary>Java</summary>
+    <p>https://colossus-java-practice.tistory.com/ <br>
+    </p>
+</details>
+
+<details>
     <summary>HTML 사이트</summary>
     <p>표준 : https://html.spec.whatwg.org/multipage/ <br>
 https://developer.mozilla.org/ko/docs/Web/HTML <br>
