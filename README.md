@@ -43,7 +43,9 @@ https://m3.material.io/theme-builder</p>
 <details>
     <summary>Figma</summary>
     <p>https://pixabay.com/ko/ <br>
-https://unsplash.com/ <br></p>
+https://unsplash.com/ <br>
+https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ 컴포넌트 실습 <br>
+</p>
 </details>
 
 <details>
