@@ -44,7 +44,7 @@ https://m3.material.io/theme-builder</p>
     <summary>Figma</summary>
     <p>https://pixabay.com/ko/ <br>
 https://unsplash.com/ <br>
-https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ 컴포넌트 실습 <br>
+컴포넌트 실습 https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ <br>
 </p>
 </details>
 
@@ -52,6 +52,11 @@ https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node
     <summary>Git</summary>
     <a href=https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-VSCode%EC%97%90%EC%84%9C-Git-GUI-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0>VSCode에서-Git-GUI-사용하기</a> <br>
     https://github.com/skills/introduction-to-github
+</details>
+
+<details>
+    <summary>React</summary>
+        * react extension을 깔고, react 설정 > Debugging > Hide logs during second render in Strict Mode를 체크하면 콘솔이 시끄럽게 굴지 않는다.
 </details>
 
 <details>
@@ -63,6 +68,7 @@ https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node
     https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
     </p>
 </details>
+
 <details>
     <summary>Other</summary>
     <p>https://github.com/Ileriayo/markdown-badges <br>
