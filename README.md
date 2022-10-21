@@ -75,8 +75,14 @@ https://unsplash.com/ <br>
     https://www.codefactor.io/ <br>
     https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
     </p>
-    
 </details>
+    
+<details>
+    <summary>Bookmarks</summary>
+        <p>https://lovelyunsh.tistory.com/42 <br>
+        </p>
+</details>
+
 </div>
 </body>
 </html>
