@@ -67,6 +67,7 @@ https://unsplash.com/ <br>
     https://sweethedge.github.io/project3-minesweeper/ <br> 
     https://sweethedge.github.io/Project4-React-Timer/ <br>
     https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
+    https://sweethedge.github.io/Project06-weather-report/ <br>
     </p>
 </details>
 
