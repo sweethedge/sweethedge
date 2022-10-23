@@ -81,6 +81,7 @@ https://unsplash.com/ <br>
 <details>
     <summary>Bookmarks</summary>
         <p>https://lovelyunsh.tistory.com/42  이클립스 새 창 위치 해결 <br>
+        https://github.com/pnumin/K-digital-2022-1 <br>
         </p>
 </details>
 
