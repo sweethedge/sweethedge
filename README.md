@@ -80,7 +80,7 @@ https://unsplash.com/ <br>
     
 <details>
     <summary>Bookmarks</summary>
-        <p>https://lovelyunsh.tistory.com/42 <br>
+        <p>https://lovelyunsh.tistory.com/42  이클립스 새 창 위치 해결 <br>
         </p>
 </details>
 
