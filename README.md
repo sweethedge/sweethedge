@@ -85,6 +85,7 @@ https://unsplash.com/ <br>
     <summary>Bookmarks</summary>
         <p>https://lovelyunsh.tistory.com/42  이클립스 새 창 위치 해결 <br>
         https://github.com/pnumin/K-digital-2022-1 <br>
+        https://ehpub.co.kr/demimal-octal-hexadecimal-number-printf-c-language/ 정수 표현 및 출력 <br>
         </p>
 </details>
 
