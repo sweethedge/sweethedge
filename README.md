@@ -70,7 +70,7 @@ https://unsplash.com/ <br>
     https://sweethedge.github.io/Project4-React-Timer/ <br>
     https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
     https://sweethedge.github.io/Project06-Weather-withReact <br>
-    https://project07-1c581.web.app/ Box Office<br>
+    https://project07-1c581.web.app/ Box Office with implementing PWA<br>
     </p>
 </details>
 
