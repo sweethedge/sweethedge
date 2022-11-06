@@ -40,14 +40,19 @@ https://dribbble.com/ <br>
 https://www.sliderrevolution.com/resources/css-forms/  <br>
 https://yesviz.com/devices.php <br>
 https://m3.material.io/ <br>
-https://m3.material.io/theme-builder</p>
+https://m3.material.io/theme-builder
+https://pixabay.com/ko/ <br>
+https://unsplash.com/ <br>
+    </p>
 </details>
 
 <details>
     <summary>Figma</summary>
-    <p>https://pixabay.com/ko/ <br>
-https://unsplash.com/ <br>
-컴포넌트 실습 https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ <br>
+    <p>
+    컴포넌트 실습 https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ <br>
+    Copying UI Design : The Weather Channel https://www.figma.com/proto/bCSMK7a6deYnOKnXZHjGwV/Untitled?node-id=1%3A2 <br>
+        Interactive Components : Chicken https://www.figma.com/file/If5FkWpe9NrDtHk2Gpog8J/Interactive-Components?node-id=0%3A1 <br>
+        
 </p>
 </details>
 
@@ -75,7 +80,7 @@ https://unsplash.com/ <br>
 </details>
 
 <details>
-    <summary>Other</summary>
+    <summary>Others</summary>
     <p>https://github.com/Ileriayo/markdown-badges <br>
     https://www.codefactor.io/ <br>
     https://dropbox.github.io/dbx-career-framework/ic1_software_engineer.html
