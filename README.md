@@ -9,6 +9,18 @@ https://www.w3schools.com/</p>
 </details>
 
 <details>
+<summary>Projects</summary>
+    <p>https://sweethedge.github.io/frontend2022/ <br>
+    https://sweethedge.github.io/project2-dice/ <br>
+    https://sweethedge.github.io/project3-minesweeper/ <br> 
+    https://sweethedge.github.io/Project4-React-Timer/ <br>
+    https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
+    https://sweethedge.github.io/Project06-Weather-withReact <br>
+    https://project07-1c581.web.app/ Box Office with implementing PWA<br>
+    </p>
+</details>
+    
+<details>
     <summary>Java</summary>
     <p>https://colossus-java-practice.tistory.com/ <br>
     </p>
@@ -65,18 +77,6 @@ https://unsplash.com/ <br>
 <details>
     <summary>React</summary>
         * react extension을 깔고, react 설정 > Debugging > Hide logs during second render in Strict Mode를 체크하면 콘솔이 시끄럽게 굴지 않는다.
-</details>
-
-<details>
-    <summary>Projects</summary>
-    <p>https://sweethedge.github.io/frontend2022/ <br>
-    https://sweethedge.github.io/project2-dice/ <br>
-    https://sweethedge.github.io/project3-minesweeper/ <br> 
-    https://sweethedge.github.io/Project4-React-Timer/ <br>
-    https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
-    https://sweethedge.github.io/Project06-Weather-withReact <br>
-    https://project07-1c581.web.app/ Box Office with implementing PWA<br>
-    </p>
 </details>
 
 <details>
