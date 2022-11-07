@@ -5,7 +5,10 @@ Hi there! XD <hr>
     <p>https://inpa.tistory.com/ <br>
 https://intrepidgeeks.com/ <br>
 https://www.acmicpc.net/ <br>
-https://www.w3schools.com/</p>
+https://www.w3schools.com/ <br>
+https://devhints.io/ <br>
+    </p>
+    
 </details>
 
 <details>
