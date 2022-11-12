@@ -66,7 +66,8 @@ https://unsplash.com/ <br>
     <p>
     컴포넌트 실습 https://www.figma.com/proto/ugWxnsrRpEQ0aDAtqlUjyX/Components?page-id=0%3A1&node-id=6%3A222&viewport=683%2C497%2C1&scaling=scale-down/ <br>
     Copying UI Design : The Weather Channel https://www.figma.com/proto/bCSMK7a6deYnOKnXZHjGwV/Untitled?node-id=1%3A2 <br>
-        Interactive Components : Chicken https://www.figma.com/file/If5FkWpe9NrDtHk2Gpog8J/Interactive-Components?node-id=0%3A1 <br>
+    Interactive Components : Chicken https://www.figma.com/file/If5FkWpe9NrDtHk2Gpog8J/Interactive-Components?node-id=0%3A1 <br>
+    tracing website : https://www.figma.com/file/Lsp80j4xTLLx6fh5kyFlvn/Marinesoft?node-id=1%3A2 <br>
         
 </p>
 </details>
