@@ -79,11 +79,6 @@ https://unsplash.com/ <br>
 </details>
 
 <details>
-    <summary>React</summary>
-        * react extension을 깔고, react 설정 > Debugging > Hide logs during second render in Strict Mode를 체크하면 콘솔이 시끄럽게 굴지 않는다.
-</details>
-
-<details>
     <summary>Others</summary>
     <p>https://github.com/Ileriayo/markdown-badges <br>
     https://www.codefactor.io/ <br>
