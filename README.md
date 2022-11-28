@@ -93,7 +93,11 @@ https://unsplash.com/ <br>
         https://accompani-i.tistory.com/189/ 정수 표현 및 출력 <br>
         </p>
 </details>
-
+    
+<details>
+    <summary>PyCharm</summary>
+    제 경우 Project Interpreter Setting 시 에러가 나는 경우에는 Settings --> Editor --> General --> Console --> Default Encoding 을 UTF-8 로 바꿔주면 되네요.<br>
+</details>
 </div>
 </body>
 </html>
