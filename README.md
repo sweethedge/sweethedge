@@ -22,12 +22,6 @@ https://devhints.io/ <br>
     https://project07-1c581.web.app/ Box Office with implementing PWA<br>
     </p>
 </details>
-    
-<details>
-    <summary>Java</summary>
-    <p>https://colossus-java-practice.tistory.com/ <br>
-    </p>
-</details>
 
 <details>
     <summary>HTML 사이트</summary>
@@ -91,6 +85,7 @@ https://unsplash.com/ <br>
         <p>https://lovelyunsh.tistory.com/42  이클립스 새 창 위치 해결 <br>
         https://github.com/pnumin/K-digital-2022-1 <br>
         https://accompani-i.tistory.com/189/ 정수 표현 및 출력 <br>
+            https://colossus-java-practice.tistory.com/ 자바 <br>
         </p>
 </details>
     
