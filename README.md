@@ -69,12 +69,6 @@ https://unsplash.com/ <br>
 </details>
 
 <details>
-    <summary>Git</summary>
-    <a href=https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-VSCode%EC%97%90%EC%84%9C-Git-GUI-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0>VSCode에서-Git-GUI-사용하기</a> <br>
-    https://github.com/skills/introduction-to-github
-</details>
-
-<details>
     <summary>Others</summary>
     <p>https://github.com/Ileriayo/markdown-badges <br>
     https://www.codefactor.io/ <br>
@@ -84,20 +78,11 @@ https://unsplash.com/ <br>
     
 <details>
     <summary>Bookmarks</summary>
-        <p>https://lovelyunsh.tistory.com/42  이클립스 새 창 위치 해결 <br>
         https://github.com/pnumin/K-digital-2022-1 <br>
-        https://accompani-i.tistory.com/189/ 정수 표현 및 출력 <br>
             https://colossus-java-practice.tistory.com/ 자바 <br>
         </p>
 </details>
-    
-<details>
-    <summary>PyCharm</summary>
-    https://codingcoding.tistory.com/609 <br>
-    제 경우 Project Interpreter Setting 시 에러가 나는 경우에는 Settings --> Editor --> General --> Console --> Default Encoding 을 UTF-8 로 바꿔주면 되네요.<br>
-    https://generalbulldog.tistory.com/31 [Python] 파이참(PyCharm)에서 "Python 콘솔에서 실행" 해제하기 <br>
-    
-</details>
+
 </div>
 </body>
 </html>
