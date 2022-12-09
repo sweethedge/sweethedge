@@ -1,5 +1,7 @@
 <div align = center>
-Hi there! XD <hr>
+Hi there! XD 
+https://blog.naver.com/sweethedge
+    <hr>
 <details>
     <summary>Overall</summary>
     <p>https://inpa.tistory.com/ <br>
