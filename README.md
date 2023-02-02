@@ -79,7 +79,8 @@ https://unsplash.com/ <br>
 <details>
     <summary>Bookmarks</summary>
         https://github.com/pnumin/K-digital-2022-1 <br>
-            https://colossus-java-practice.tistory.com/ 자바 <br>
+        https://colossus-java-practice.tistory.com/ 자바 <br>
+        https://github.com/slows14tem/PNUProject_1 <br>
         </p>
 </details>
 
