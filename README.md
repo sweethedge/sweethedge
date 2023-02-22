@@ -81,7 +81,7 @@ https://unsplash.com/ <br>
         https://github.com/pnumin/K-digital-2022-1 <br>
         https://colossus-java-practice.tistory.com/ 자바 <br>
         https://github.com/slows14tem/PNUProject_1 <br>
-        https://github.com/slows14tem/AIproject-KeepMe <br>
+        https://github.com/AIproject-KeepMe <br>
         </p>
 </details>
 
