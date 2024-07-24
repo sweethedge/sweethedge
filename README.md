@@ -14,18 +14,6 @@ https://devhints.io/ <br>
 </details>
 
 <details>
-<summary>Projects</summary>
-    <p>https://sweethedge.github.io/frontend2022/ <br>
-    https://sweethedge.github.io/project2-dice/ <br>
-    https://sweethedge.github.io/project3-minesweeper/ <br> 
-    https://sweethedge.github.io/Project4-React-Timer/ <br>
-    https://sweethedge.github.io/Project05-Migrate-withReact/ <br>
-    https://sweethedge.github.io/Project06-Weather-withReact <br>
-    https://project07-1c581.web.app/ Box Office with implementing PWA<br>
-    </p>
-</details>
-
-<details>
     <summary>HTML 사이트</summary>
     <p>표준 : https://html.spec.whatwg.org/multipage/ <br>
 https://developer.mozilla.org/ko/docs/Web/HTML <br>
