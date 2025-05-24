@@ -1,17 +1,4 @@
 <div align = center>
-Hi there! XD <br>
-https://blog.naver.com/sweethedge
-    <hr>
-<details>
-    <summary>Overall</summary>
-    <p>https://inpa.tistory.com/ <br>
-https://intrepidgeeks.com/ <br>
-https://www.acmicpc.net/ <br>
-https://www.w3schools.com/ <br>
-https://devhints.io/ <br>
-    </p>
-    
-</details>
 
 <details>
     <summary>HTML 사이트</summary>
